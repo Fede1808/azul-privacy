@@ -1,0 +1,110 @@
+ <!DOCTYPE html>
+  <html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Política de Privacidad — Azul Alimentos</title>
+    <style>
+      body { font-family: -apple-system, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 24px; color: #1a1a1a; line-height: 1.7; }
+      h1 { font-size: 26px; }
+      h2 { font-size: 18px; margin-top: 36px; }
+      p, li { font-size: 15px; color: #333; }
+      hr { border: none; border-top: 1px solid #e5e5e5; margin: 32px 0; }
+      a { color: #1E3A5F; }
+    </style>
+  </head>
+  <body>
+    <h1>Política de Privacidad — Azul Alimentos</h1>
+    <p><strong>Última actualización:</strong> mayo de 2025</p>
+    <p>Esta Política de Privacidad describe cómo Azul Alimentos ("la App", "nosotros") recopila, usa y protege la información personal de sus usuarios en el marco de la Ley N° 25.326 de Protección de Datos
+  Personales de la República Argentina.</p>
+    <p>Al utilizar la App, aceptás los términos de esta política.</p>
+
+    <hr />
+
+    <h2>1. Información que recopilamos</h2>
+    <p><strong>Datos de cuenta:</strong></p>
+    <ul>
+      <li>Nombre y apellido</li>
+      <li>Dirección de correo electrónico</li>
+      <li>Número de teléfono</li>
+      <li>Domicilio (opcional, solo para compradores)</li>
+      <li>Razón social y CUIT (solo para compradores)</li>
+    </ul>
+    <p><strong>Contenido generado:</strong></p>
+    <ul>
+      <li>Mensajes de texto enviados en el chat</li>
+      <li>Archivos PDF compartidos en conversaciones y difusiones</li>
+      <li>Mensajes de voz enviados en el chat</li>
+    </ul>
+    <p><strong>Datos técnicos:</strong></p>
+    <ul>
+      <li>Token de dispositivo para el envío de notificaciones push</li>
+      <li>Registros de uso (accesos a difusiones)</li>
+    </ul>
+
+    <hr />
+
+    <h2>2. Cómo usamos tu información</h2>
+    <p>Usamos tu información exclusivamente para:</p>
+    <ul>
+      <li>Proveer el servicio de comunicación entre vendedores y compradores</li>
+      <li>Enviarte notificaciones push sobre mensajes y novedades</li>
+      <li>Identificarte dentro de la plataforma</li>
+      <li>Mejorar el funcionamiento de la App</li>
+    </ul>
+    <p>No vendemos, alquilamos ni compartimos tu información personal con terceros con fines comerciales.</p>
+
+    <hr />
+
+    <h2>3. Proveedores de servicios</h2>
+    <p>Para operar la App utilizamos los siguientes servicios de terceros:</p>
+    <ul>
+      <li><strong>Supabase</strong> (supabase.com): almacenamiento de datos y archivos</li>
+      <li><strong>Expo</strong> (expo.dev): infraestructura de notificaciones push</li>
+    </ul>
+    <p>Estos proveedores acceden a tu información únicamente en la medida necesaria para prestar sus servicios y están sujetos a sus propias políticas de privacidad.</p>
+
+    <hr />
+
+    <h2>4. Seguridad</h2>
+    <p>Todos los datos se almacenan en servidores seguros con cifrado en tránsito (HTTPS/TLS). El acceso a los datos está restringido mediante políticas de seguridad a nivel de fila (Row Level Security),
+  garantizando que cada usuario solo acceda a su propia información.</p>
+
+    <hr />
+
+    <h2>5. Retención de datos</h2>
+    <p>Conservamos tu información mientras tu cuenta esté activa. Al eliminar tu cuenta, todos tus datos personales, mensajes y archivos son eliminados de forma permanente e irreversible de nuestros
+  sistemas.</p>
+
+    <hr />
+
+    <h2>6. Tus derechos</h2>
+    <p>De acuerdo con la Ley 25.326, tenés derecho a:</p>
+    <ul>
+      <li><strong>Acceder</strong> a los datos personales que tenemos sobre vos</li>
+      <li><strong>Rectificar</strong> datos inexactos o incompletos</li>
+      <li><strong>Eliminar</strong> tu cuenta y todos tus datos desde Perfil → Zona de peligro → Eliminar cuenta</li>
+      <li><strong>Oponerte</strong> al tratamiento de tus datos en cualquier momento</li>
+    </ul>
+    <p>Para ejercer estos derechos, contactanos en: <a href="mailto:fede.fl73@gmail.com">fede.fl73@gmail.com</a></p>
+
+    <hr />
+
+    <h2>7. Menores de edad</h2>
+    <p>La App no está dirigida a menores de 18 años. No recopilamos intencionalmente información de menores. Si creés que un menor ha proporcionado sus datos, contactanos en <a
+  href="mailto:fede.fl73@gmail.com">fede.fl73@gmail.com</a> para eliminarlos.</p>
+
+    <hr />
+
+    <h2>8. Cambios a esta política</h2>
+    <p>Podemos actualizar esta política ocasionalmente. Te notificaremos sobre cambios significativos a través de la App. La fecha de "última actualización" al inicio de este documento indica cuándo fue
+  modificada por última vez.</p>
+
+    <hr />
+
+    <h2>9. Contacto</h2>
+    <p>Si tenés preguntas sobre esta Política de Privacidad, podés contactarnos en:<br />
+    <a href="mailto:fede.fl73@gmail.com">fede.fl73@gmail.com</a></p>
+  </body>
+  </html>
